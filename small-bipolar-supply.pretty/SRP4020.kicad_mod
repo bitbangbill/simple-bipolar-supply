@@ -4,10 +4,10 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 1 -8.5 0)
+		(at 0 -3.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "6543b5ce-cf7c-413a-ba8b-7ea523efff93")
+		(uuid "55733250-7bfc-4d8b-8ab4-08f07849ee43")
 		(effects
 			(font
 				(size 1 1)
@@ -16,10 +16,10 @@
 		)
 	)
 	(property "Value" "SRP4020"
-		(at 1 -7 0)
+		(at 0 -2 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "168ce13b-5837-443b-9647-d8b777cd9779")
+		(uuid "c517cceb-6717-4402-bb2b-5edf0be3e0da")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "05cd099f-de66-49c6-ae6a-fae37231c94a")
+		(uuid "45ee1f14-6064-42e5-8866-4d2e6fef230b")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0c3468c9-fe32-4620-b44f-5a6f5f5e0ed4")
+		(uuid "4472f83c-f83a-4fa9-a5b5-a348fbd24faa")
 		(effects
 			(font
 				(size 1 1)
@@ -64,7 +64,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "29686ee9-2741-4d10-8810-a17c19189118")
+		(uuid "ab092718-a7fc-4981-8a0a-23080c1f5eef")
 	)
 	(fp_rect
 		(start -2.5 -2.5)
@@ -75,13 +75,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "ba6eedcb-3d8b-44f8-8509-53276f59f5bf")
+		(uuid "805362ce-cea5-4c90-9a72-c874d88d56c0")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0.5 -5.5 0)
+		(at -0.5 -0.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "83e58d5b-bc81-477f-8e6a-db09033ec684")
+		(uuid "f7c93bd2-6b9a-4900-a259-58a2000c3301")
 		(effects
 			(font
 				(size 1 1)
@@ -93,13 +93,24 @@
 		(at 0 -1.2)
 		(size 3.8 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "50d8f089-e151-4c37-8630-4a9b960a088f")
+		(uuid "c741a943-91a5-44f7-8df9-13a545f8ef27")
 	)
 	(pad "2" smd rect
 		(at 0 1.2)
 		(size 3.8 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "63b762ad-fcd3-47b6-b291-614fc72f53ab")
+		(uuid "21aa69f2-8ef4-4ea5-a4e8-87c1deccf2ed")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d/SRP4020FA.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

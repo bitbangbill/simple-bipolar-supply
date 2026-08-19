@@ -76,7 +76,32 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|102205000|54445000|a96ae625-2722-4399-8eb4-1cbcbfcd2839|da3c51c5-c38b-4664-ad6e-152d7f29a9c0",
+          ""
+        ],
+        [
+          "clearance|91250000|59550000|b4ba7d6d-4a01-461e-805d-ce58454c2f6e|d2e3336e-a7bd-4391-a3b7-e5cef1551056",
+          ""
+        ],
+        [
+          "clearance|92350000|62000000|a9e0d50b-5451-4a18-8d0f-79357b9edb29|7ac800df-b3b4-48ef-9da8-db0964921819",
+          ""
+        ],
+        [
+          "clearance|94625000|62650000|f686871c-95c6-4e4f-b89f-be6cae17d3d4|8f20e476-ded3-4457-916e-dea7487d9b8a",
+          ""
+        ],
+        [
+          "clearance|94625000|62950000|f686871c-95c6-4e4f-b89f-be6cae17d3d4|2462ded2-688f-4e6d-b393-649c3daded33",
+          ""
+        ],
+        [
+          "clearance|99545000|55265000|d4106579-4b79-45fa-9e24-13add47cc839|3cd3b053-39a0-4b84-a9fa-801df7f62332",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -210,7 +235,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.4
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -564,6 +590,14 @@
       {
         "netclass": "POWER",
         "pattern": "/VOUT"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "/C+"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "/C-"
       }
     ]
   },

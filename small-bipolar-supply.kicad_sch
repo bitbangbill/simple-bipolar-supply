@@ -2693,7 +2693,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 87.63) (xy 104.14 87.63)
+			(xy 92.71 87.63) (xy 101.6 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2713,7 +2713,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 82.55) (xy 105.41 82.55)
+			(xy 101.6 82.55) (xy 105.41 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3403,7 +3403,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 87.63) (xy 104.14 82.55)
+			(xy 101.6 87.63) (xy 101.6 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3612,6 +3612,28 @@
 			(justify right bottom)
 		)
 		(uuid "2fa188ef-fea5-47fa-a1a2-7bd746a72ea3")
+	)
+	(label "C+"
+		(at 101.6 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left bottom)
+		)
+		(uuid "3bb11ca0-5430-402a-b874-26314b4e907e")
+	)
+	(label "C-"
+		(at 101.6 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left bottom)
+		)
+		(uuid "6ec81fd8-8aed-4543-9f58-7af1f31cc9a4")
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")

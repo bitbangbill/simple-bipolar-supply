@@ -190,7 +190,7 @@
 		)
 		(path "/c09f3e3f-3fed-47dc-8630-191b08696053")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -742,7 +742,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/7dcbbba7-b39a-4c84-9d65-b343ced52b26")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1096,7 +1096,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/5a17ae71-e939-456e-8778-399a228b45bd")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1235,7 +1235,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/0dc0c052-aaa3-4a4c-b40d-7d340ac7c078")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1442,7 +1442,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/98b6c09a-23f8-4795-aed7-a3b6ecd09d39")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1592,7 +1592,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/8b5ba003-950b-4f62-8135-b0e9d45b70b2")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1725,7 +1725,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/92cc34ab-0c23-495a-9d51-9faac9151878")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2137,7 +2137,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cda8b2d2-daee-496f-8e15-67922e992a90")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2295,7 +2295,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/88e080f9-4b2d-4293-9c64-94fbe9bec836")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2502,7 +2502,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/688e1164-e21c-4f45-ad4c-80e5709497f3")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2660,7 +2660,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/317ee564-3f7e-4fce-9cdb-e2ece141c665")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2818,7 +2818,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/45458d40-b8ba-4dcc-9637-080b81c67edf")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2976,7 +2976,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/11f6fb06-e5de-492f-a535-878739337f97")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3134,7 +3134,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/de0468e5-bce6-4a12-8da4-d5ca64381992")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3292,7 +3292,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/0eaefcf1-7bff-4e93-b7c8-88a958700a93")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3499,7 +3499,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b8384d90-bb06-4e58-8114-57613796ae0d")
 		(sheetname "/")
-		(sheetfile "small-bipolar-supply.kicad_sch")
+		(sheetfile "simple-bipolar-suppy.kicad_sch")
 		(units
 			(unit
 				(name "A")

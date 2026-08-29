@@ -5,7 +5,7 @@
 	(uuid "7769c9fd-d5c8-4d26-8add-365d4d4435ab")
 	(paper "A5")
 	(title_block
-		(title "Small Bipolar Supply")
+		(title "Simple Bipolar Supply")
 		(date "2026-08-11")
 		(rev "B")
 		(company "Personal Project")
@@ -2174,7 +2174,7 @@
 		)
 		(uuid "aa491e4d-8c69-43ba-a543-47385ba51b5d")
 	)
-	(text "CASTELLATED CONNECTORS\n"
+	(text "CONNECTORS\n"
 		(exclude_from_sim no)
 		(at 41.148 76.962 0)
 		(effects
@@ -3018,8 +3018,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.1588)
 			)
 			(justify right bottom)
 		)
@@ -3121,7 +3120,7 @@
 			(uuid "94e08be1-d85e-46f1-83d9-7bcb52036498")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C8")
 					(unit 1)
@@ -3203,7 +3202,7 @@
 			(uuid "07f37155-7fa4-4b5d-8987-e43befcc029c")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C5")
 					(unit 1)
@@ -3286,7 +3285,7 @@
 			(uuid "4d14c11d-f716-4bfa-92e5-c68c5d93c372")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "R1")
 					(unit 1)
@@ -3364,7 +3363,7 @@
 			(uuid "fd58beb6-46cb-4c6f-a746-43cf17bebd54")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#FLG03")
 					(unit 1)
@@ -3443,7 +3442,7 @@
 			(uuid "be9c6461-a40a-40d0-aab7-06cc267f40aa")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#FLG02")
 					(unit 1)
@@ -3525,7 +3524,7 @@
 			(uuid "4b93f46b-2032-4b3a-b590-3555cc016611")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C7")
 					(unit 1)
@@ -3603,7 +3602,7 @@
 			(uuid "80ed3747-938f-4bdc-ad1e-222cedaab0c5")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR03")
 					(unit 1)
@@ -3681,7 +3680,7 @@
 			(uuid "070734ea-8179-4cc3-aec3-078705c0ec16")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR04")
 					(unit 1)
@@ -3761,7 +3760,7 @@
 			(uuid "8310a12d-e902-47e4-b8b1-7f382f55b020")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C2")
 					(unit 1)
@@ -3839,7 +3838,7 @@
 			(uuid "179d09d8-237e-4e75-859f-27fa2bc9dc60")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR010")
 					(unit 1)
@@ -3917,7 +3916,7 @@
 			(uuid "d63394a4-4e36-4f98-991b-97ce9ad80a00")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR05")
 					(unit 1)
@@ -3997,7 +3996,7 @@
 			(uuid "6fffea4d-c8e3-4869-bb69-9a21d56ccaa8")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "L2")
 					(unit 1)
@@ -4075,7 +4074,7 @@
 			(uuid "c917fd09-e30f-468a-82da-8d9d1bcb05f8")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR06")
 					(unit 1)
@@ -4158,7 +4157,7 @@
 			(uuid "39093fa7-36cd-480b-9ffe-c6c017dd27cd")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "R2")
 					(unit 1)
@@ -4236,7 +4235,7 @@
 			(uuid "0267af2d-4d31-4bfe-bfd0-e5867e52183d")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#FLG04")
 					(unit 1)
@@ -4328,7 +4327,7 @@
 			(uuid "704b1753-6f0a-4cf2-8717-69c26175dad0")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "U1")
 					(unit 1)
@@ -4406,7 +4405,7 @@
 			(uuid "ef3b0ced-35cc-4ac6-827f-24874c28d276")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR08")
 					(unit 1)
@@ -4484,7 +4483,7 @@
 			(uuid "fea4e2aa-f963-4877-947d-8a6987314389")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR09")
 					(unit 1)
@@ -4566,7 +4565,7 @@
 			(uuid "ccc8ec8d-209a-4845-9b8e-4485f0b5b2b2")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C1")
 					(unit 1)
@@ -4646,7 +4645,7 @@
 			(uuid "9f9984b3-6b2d-4b07-93a7-5853ee6ecd9b")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "L1")
 					(unit 1)
@@ -4724,7 +4723,7 @@
 			(uuid "b4ebb8fc-7c1b-4888-8db8-195089522990")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR014")
 					(unit 1)
@@ -4802,7 +4801,7 @@
 			(uuid "7af18034-acfb-495a-ad76-1f297196ffaf")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR011")
 					(unit 1)
@@ -4880,7 +4879,7 @@
 			(uuid "75ce228f-88de-401f-bef3-f05340221fc7")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR07")
 					(unit 1)
@@ -4975,7 +4974,7 @@
 			(uuid "008b6aba-2b7b-411b-9ec1-8d853e3326d2")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "J1")
 					(unit 1)
@@ -5057,7 +5056,7 @@
 			(uuid "45f9abea-231e-4a35-a5c8-7057f3905821")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C9")
 					(unit 1)
@@ -5139,7 +5138,7 @@
 			(uuid "44ecb40d-677c-46c5-8153-f396d212dd4b")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C6")
 					(unit 1)
@@ -5217,7 +5216,7 @@
 			(uuid "5d125406-cae7-47d0-8d02-170f3d097cd5")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#FLG01")
 					(unit 1)
@@ -5300,7 +5299,7 @@
 			(uuid "14dd78b5-626f-4964-accd-dd265ceb47bc")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "U2")
 					(unit 1)
@@ -5382,7 +5381,7 @@
 			(uuid "2f8ff8af-35c8-4db1-94c2-998d96cf7b89")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C4")
 					(unit 1)
@@ -5464,7 +5463,7 @@
 			(uuid "6474444f-1503-409c-9330-c73dbec3bbf0")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "C3")
 					(unit 1)
@@ -5542,7 +5541,7 @@
 			(uuid "d1529d8c-315f-415a-8c70-a110ef45de00")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR01")
 					(unit 1)
@@ -5620,7 +5619,7 @@
 			(uuid "34296445-7700-4936-a2dc-860c1848685d")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR02")
 					(unit 1)
@@ -5698,7 +5697,7 @@
 			(uuid "36d9109c-b700-4926-acc4-6a8b417131d1")
 		)
 		(instances
-			(project "small-bipolar-supply"
+			(project "simple-bipolar-suppy"
 				(path "/7769c9fd-d5c8-4d26-8add-365d4d4435ab"
 					(reference "#PWR012")
 					(unit 1)

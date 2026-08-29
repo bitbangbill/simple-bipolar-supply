@@ -573,7 +573,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "small-bipolar-supply.kicad_pro",
+    "filename": "simple-bipolar-suppy.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -793,7 +793,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "small-bipolar-supply.kicad_sch",
+        "filename": "simple-bipolar-suppy.kicad_sch",
         "name": "Root",
         "uuid": "7769c9fd-d5c8-4d26-8add-365d4d4435ab"
       }

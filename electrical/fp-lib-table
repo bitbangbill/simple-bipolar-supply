@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "small-bipolar-supply") (type "KiCad") (uri "${KIPRJMOD}/simple-bipolar-suppy.pretty") (options "") (descr ""))
+)
